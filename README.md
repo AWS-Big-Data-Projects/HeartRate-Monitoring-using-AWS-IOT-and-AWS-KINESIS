@@ -3,7 +3,6 @@
 
 Heart rate monitoring using aws-iot,aws-kinesis,amazon-athena and visualize the data using amazon quicksight
 
-
 ![image](https://user-images.githubusercontent.com/48589838/77186843-8a6cab80-6af9-11ea-8f23-2e61b17a89e2.png)
 
 
