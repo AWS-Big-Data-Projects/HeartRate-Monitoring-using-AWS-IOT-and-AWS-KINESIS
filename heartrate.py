@@ -6,7 +6,6 @@ import time
 
 highHeartrateNames = ['Bailey', 'Beatrice', 'Beau', 'Bella', 'Ben', 'Beth']
 nonhighHeartrateNames = ['Branden', 'Brady', 'Bonny']
-
 allNames = list(set().union(highHeartrateNames, nonhighHeartrateNames))
 
 iot = boto3.client('iot-data');
