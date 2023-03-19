@@ -1,3 +1,5 @@
+##IMPORTANT##
+#This python scripts needs access to AWS CLI credentials and boto3 must be installed on the machine running the script.#
 import json
 import random
 import datetime
